@@ -9,7 +9,7 @@ function App()
   return(
     <div className = "App">
       <Header></Header>
-      <div> 
+      <div className="row"> 
       <Main></Main>
       <Basket></Basket>
     </div>
