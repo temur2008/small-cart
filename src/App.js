@@ -3,6 +3,7 @@ import './App.css';
 import Header from './components/Header';
 import Basket from './components/Basket';
 import Main from './components/Main';
+import data from './data';
 
 function App() 
 {
