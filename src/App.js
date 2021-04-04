@@ -3,12 +3,12 @@ import Header from './components/Header';
 import Basket from './components/Basket';
 import Main from './components/Main';
 import data from './data';
-import {useState} from 'react';
+import { useState } from 'react';
 
 function App() 
 { 
   const {products} = data;
-  const {cartItems, setCartItems} = useState ([]);
+  const [cartItems, setCartItems] = useState ([]);
   return(
     <div className = "App">
       <Header></Header>
