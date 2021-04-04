@@ -1,10 +1,11 @@
+
 const data = {
     products:[
 {   
     id:'1',
     name: 'Macbook',
     price: 1400,
-    image:'https://picsum.photos/id/180/2400/1600'
+    image: 'https://picsum.photos/id/111/4401/2656'
 },
 {   
     id:'2',
